@@ -1,0 +1,10 @@
+google_search_results==2.4.2
+python-dotenv
+trafilatura==2.3.1
+youtube_transcript_api
+requests
+llama_index
+llama_index_llms_openai
+graspologic
+pandas
+nest-asyncio
